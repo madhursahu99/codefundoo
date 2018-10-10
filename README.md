@@ -1,2 +1,2 @@
 # codefundoo
-student of IIT BHU
+Student of IIT BHU
